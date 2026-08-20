@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "skills": {
+    "ask-matt": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/ask-matt/SKILL.md",
+      "computedHash": "492827e7b0c07dbd3cb5119fb25533e673eeff948323dda74b5004bcf88a736f"
+    },
+    "code-review": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/code-review/SKILL.md",
+      "computedHash": "9573e6b4f11adc8c9a390eb48e709a1f35bef0ce967cdb68ce1a63520b1c2d56"
+    },
+    "codebase-design": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/codebase-design/SKILL.md",
+      "computedHash": "5a17552cc1482f1a40124bf4e6c9dbd90ac0dbb47e71c07d47369f9e5f2ae3b5"
+    },
+    "diagnosing-bugs": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/diagnosing-bugs/SKILL.md",
+      "computedHash": "37b5e9c624513551da790b52864dc8c84bff996a6d03a380cc6facdcc0a88354"
+    },
+    "domain-modeling": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/domain-modeling/SKILL.md",
+      "computedHash": "a11713c0ff7870efa3c331b2e273f09116158485246edc89ae5088eefd1b0b48"
+    },
+    "grill-me": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/grill-me/SKILL.md",
+      "computedHash": "9cdbb4b8f7a3aeaef82e6230c9e823500d4a8a1214c726cf342cf9829d34fc7d"
+    },
+    "grill-with-docs": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/grill-with-docs/SKILL.md",
+      "computedHash": "35e62aa423aaeab6a414bcac273f56dfb17802ef2334b41b6a3b00f28196c8cf"
+    },
+    "grilling": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/grilling/SKILL.md",
+      "computedHash": "a16b2f661db6caf310d7e02dd0d069e597cb888873e210e66f641eae715c5f23"
+    },
+    "handoff": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/handoff/SKILL.md",
+      "computedHash": "20e5f4afdef502637510bc5c64d27645d3c85c88df9cb006824bbb0980166319"
+    },
+    "implement": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/implement/SKILL.md",
+      "computedHash": "2139cfedf24791adbc839aaab6019cff158af1e28bfead020ec6e0ce01b3e74d"
+    },
+    "implement-afk-agentic": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/agentic/implement-afk-agentic/SKILL.md",
+      "computedHash": "29c2dc7af9a13e30f4ae8de51f6ca6a4f3e1c0fc59f1eeeb6ab8963df4274c48"
+    },
+    "implement-agentic": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/agentic/implement-agentic/SKILL.md",
+      "computedHash": "0e2e1c0bb24b3f9c1c719b916b3f28f81c87958dddf51a55c93a15c7503bbb3a"
+    },
+    "implement-copy": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/implement-copy/SKILL.md",
+      "computedHash": "c6c1fb362bc9e850afbfd669a416fd18eae574bb622e55eb5f9eec98c151667e"
+    },
+    "improve-codebase-architecture": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "computedHash": "2449db6ab1ded9581f69fcc56c1f64818112d05e271fd4c5da23c6523f9d3d9d"
+    },
+    "open-pr-agentic": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/agentic/open-pr-agentic/SKILL.md",
+      "computedHash": "dbe8f0d467d3a2eb5823b9c7282e075ddfceed713ed19c8870dfb868ff1f5f62"
+    },
+    "prototype": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/prototype/SKILL.md",
+      "computedHash": "d3fc74689bd993e39c44bfae510d014eecffbeec2922764b065377fd1327c0f6"
+    },
+    "research": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/research/SKILL.md",
+      "computedHash": "c8c1cba327a6f824b554cd978079a3dadd7406d73174f8fb9bfef58824691970"
+    },
+    "resolving-merge-conflicts": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/resolving-merge-conflicts/SKILL.md",
+      "computedHash": "63b2dcadbe9124caeb3448f1378286fe18dcefb2494f60e136831b8b4986ca27"
+    },
+    "setup-agent-skills": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/setup-agent-skills/SKILL.md",
+      "computedHash": "406edbd430a26354c328b8cb3c03ccbeca289121cce081e21cb9e9007934c18a"
+    },
+    "tdd": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/tdd/SKILL.md",
+      "computedHash": "e753a5da75292bbe59d302d89566bc2c53d0e73944da2f0e944a7578883c07d0"
+    },
+    "teach": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/teach/SKILL.md",
+      "computedHash": "b8a69574c7a019bed84e84313dc8bf02e1d1bf925ba43057d433217c63863206"
+    },
+    "to-questionnaire": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/to-questionnaire/SKILL.md",
+      "computedHash": "befbec7005695163741a57bc94810dc5048fb766baaa485d5160b1d7f86335c1"
+    },
+    "to-spec": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/to-spec/SKILL.md",
+      "computedHash": "8871acf65495ec418ec7c65724e40812631a27bff580e42b210cb8d57e6f5d5d"
+    },
+    "to-tickets": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/to-tickets/SKILL.md",
+      "computedHash": "6808622ed53b1bd3aad17995a67f2b47ac511b164a233f36de5f11ef9b9c1f91"
+    },
+    "to-tickets-agentic": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/agentic/to-tickets-agentic/SKILL.md",
+      "computedHash": "48ff43d0cecca35ee0ef27f62318375a6a48e3a2e120e6c930e8415b4ae6f48c"
+    },
+    "triage": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/triage/SKILL.md",
+      "computedHash": "5d0564295c19ca8599a0241154e7ea55965d66115be0a9b95672b6d483e59e13"
+    },
+    "unslop": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/unslop/SKILL.md",
+      "computedHash": "3dfc2afeda677e12c6065497a40df7d895859de1c7d1cffb899b1559d129fe4f"
+    },
+    "wait-what": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/wait-what/SKILL.md",
+      "computedHash": "71a9a1f1773d4b1ff70a9d496db63855ef83a7fe906c72b70cdebf4815a2c4c1"
+    },
+    "wayfinder": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/wayfinder/SKILL.md",
+      "computedHash": "4fd344a3917a3d4629b4322fc07eef43cc7c191335bf30a5cf7683756f17818e"
+    },
+    "wizard": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/wizard/SKILL.md",
+      "computedHash": "dee7f1a523994a1e063c69fe09c2f5b4da97a41ad68107722664e6e472cb2423"
+    },
+    "writing-for-agents": {
+      "source": "nstaab1/nathan-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/writing-for-agents/SKILL.md",
+      "computedHash": "95da47fc97af998e85b7d7e6d57b3ac76727c1e290cfe9ea09005aacb826959f"
+    }
+  }
+}
