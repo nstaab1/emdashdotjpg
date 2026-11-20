@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 Break a plan, spec, or conversation into tracer-bullet vertical slices. Every ticket declares its blockers, implementation lane, and test seams.
 
-The issue tracker and triage-label vocabulary should be configured. Run `/setup-agent-skills` if they are missing.
+The issue tracker and triage-label vocabulary should be configured. Run `/ns-setup-agent-skills` if they are missing.
 
 ## 1. Gather context
 

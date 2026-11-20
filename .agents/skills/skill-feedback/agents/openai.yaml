@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Feedback"
+  short_description: "File an issue when one of Nathan's skills misleads the agent"
+  default_prompt: "Use $skill-feedback to file feedback on the skill that misled you."

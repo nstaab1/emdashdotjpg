@@ -13,3 +13,7 @@ The five canonical triage roles, each label string equal to its name. See `docs/
 ### Domain docs
 
 Single-context: one `CONTEXT.md` and one `docs/adr/` at the repo root. See `docs/agents/domain.md`.
+
+### Skill feedback
+
+Run `/skill-feedback` when one of Nathan's skills misleads you or Nathan corrects what a skill told you to do.
