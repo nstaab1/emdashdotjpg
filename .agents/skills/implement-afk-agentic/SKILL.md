@@ -42,7 +42,7 @@ Start the build only when the branch has that exact name and its initial `HEAD` 
 
 ## Build
 
-Drive `/tdd` one red-green vertical slice at a time. The ticket's **Seams under test** section is the seam agreement: test only at those seams without asking for reconfirmation.
+Drive `/ns-tdd` one red-green vertical slice at a time. The ticket's **Seams under test** section is the seam agreement: test only at those seams without asking for reconfirmation.
 
 Run focused tests and typechecking throughout. Run the full relevant test suite once at the end.
 
@@ -59,7 +59,7 @@ A precise halt is a successful run. Inventing a seam or design choice to keep mo
 
 ## Review
 
-Run `/code-review` using `origin/<base-branch>` as the fixed point. Split its findings:
+Run `/ns-code-review` using `origin/<base-branch>` as the fixed point. Split its findings:
 
 - **Mechanical.** One clear fix with no trade-off. Fix it and rerun the affected checks.
 - **Judgment.** Trade-offs, style calls, or anything debatable. Leave the code as-is and record each item under `## Reviewer: look here` in the PR body.
